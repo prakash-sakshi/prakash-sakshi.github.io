@@ -30,7 +30,7 @@ Results-driven Data Analyst with expertise in SQL, Python, Power BI, Tableau, an
 ## Connect With Me
 
 * LinkedIn: linkedin.com/in/prakash-sakshi
-* GitHub: github.com/sakshipr3110
+* GitHub: github.com/prakash-sakshi
 * Email: [prakashsakshi31@gmail.com](mailto:prakashsakshi31@gmail.com)
 
 Thank you for visiting my portfolio!
